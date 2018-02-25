@@ -63,7 +63,7 @@ class RatingCalculator(object):
             user.delta += inc
         self.user_list = sorted(self.user_list, key=lambda x: x.old_rating, reverse=True)
         # Calculate second inc
-        s = min(len(self.user_list), int(4 * math.sqrt(len(self.user_list))))
+        s = min(len(self.user_list), int(4 * round(math.sqrt(len(self.user_list)))))
         sum_s = 0
         for i in range(s):
             sum_s += self.user_list[i].delta
@@ -82,7 +82,8 @@ if __name__ == '__main__':
     contest_id = sys.argv[1]
     with open('cf_rating_{}.json'.format(contest_id), 'r') as f:
         test_users = json.loads(f.read())
-    # For consecutive users with same rank, we should set their ranks to the real rank of the last
+
+    # For consecutive users with same rank, we should reassign their ranks to the real rank of the last
     # For example, initial standings are [1, 2, 2, 2, 5], and new standings will be [1, 4, 4, 4, 5]
     last_idx = 0
     last_rank = 1
@@ -92,10 +93,13 @@ if __name__ == '__main__':
                 test_users[j]['rank'] = i
             last_idx = i
             last_rank = test_users[i]['rank']
+    for i in range(last_idx, len(test_users)):
+        test_users[i]['rank'] = len(test_users)
 
     # Calculate rating changes
     calculator = RatingCalculator(test_users)
     calculator.calculate()
+
     res = []
     # validation: used for validating result
     validation = True
@@ -109,6 +113,7 @@ if __name__ == '__main__':
         })
         if user.new_rating != user.official_new_rating:
             validation = False
+            print('Failed with {}. rank: {}, seed: {}, rating: {}->{} vs {}'.format(user.handle, user.rank, user.seed, user.old_rating, user.new_rating, user.official_new_rating))
     with open('cf_rating_changes_{}.json'.format(contest_id), 'w') as f:
         f.write(json.dumps(res, indent=4))
     print('Validation:', validation)
