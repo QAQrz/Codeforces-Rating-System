@@ -7,7 +7,7 @@ Supported implementations:
 
 ### How to use
 
-1. Run `spider_txt.py` (for C++) or `spider_json.py` (for Python) to get Codeforces rating data for test.
+1. Run `spider_txt.py` (for C++) or `spider_json.py` (for Python) with argument `contest_id` to get Codeforces rating data for test.
 
 2. (Compile and) Run `rating.cpp` or `rating.py` with argument `contest_id`. By default, the result will be store to `tests` directory.
 
