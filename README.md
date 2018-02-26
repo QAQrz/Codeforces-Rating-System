@@ -3,7 +3,7 @@
 Supported implementations:
 
 - C++
-- Python
+- Python 3
 
 ### How to use
 
