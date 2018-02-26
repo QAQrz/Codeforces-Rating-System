@@ -19,7 +19,7 @@ def get_rating(contest_id):
 def work(contest_id):
     data = get_rating(contest_id)
     if data:
-        with open('cf_rating_{}.json'.format(contest_id), 'w') as f:
+        with open('tests/cf_rating_official_{}.json'.format(contest_id), 'w') as f:
             f.write(json.dumps(data, indent=4))
     else:
         print('error!')
@@ -27,7 +27,7 @@ def work(contest_id):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Usage: python3 spider.py [codeforces_contest_id]')
+        print('Usage: python3 file_name.py [codeforces_contest_id]')
         sys.exit(1)
     contest_id = sys.argv[1]
     work(contest_id)

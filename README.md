@@ -1,2 +1,2 @@
-# Codeforces-Rating-System-python-implementation
-Codeforces Rating System (python implementation)
+# Codeforces Rating System (third party implementation)
+

@@ -61,8 +61,8 @@ class RatingCalculator(object):
         inc = int(-sum_delta / len(self.user_list)) - 1
         for user in self.user_list:
             user.delta += inc
-        self.user_list = sorted(self.user_list, key=lambda x: x.old_rating, reverse=True)
         # Calculate second inc
+        self.user_list = sorted(self.user_list, key=lambda x: x.old_rating, reverse=True)
         s = min(len(self.user_list), int(4 * round(math.sqrt(len(self.user_list)))))
         sum_s = 0
         for i in range(s):
@@ -77,10 +77,10 @@ class RatingCalculator(object):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Usage: python3 rating.py [codeforces_contest_id]')
+        print('Usage: python3 file_name.py [codeforces_contest_id]')
         sys.exit(1)
     contest_id = sys.argv[1]
-    with open('cf_rating_{}.json'.format(contest_id), 'r') as f:
+    with open('tests/cf_rating_official_{}.json'.format(contest_id), 'r') as f:
         test_users = json.loads(f.read())
 
     # For consecutive users with same rank, we should reassign their ranks to the real rank of the last
@@ -113,7 +113,15 @@ if __name__ == '__main__':
         })
         if user.new_rating != user.official_new_rating:
             validation = False
-            print('Failed with {}. rank: {}, seed: {}, rating: {}->{} vs {}'.format(user.handle, user.rank, user.seed, user.old_rating, user.new_rating, user.official_new_rating))
-    with open('cf_rating_changes_{}.json'.format(contest_id), 'w') as f:
+            print('%5.0f  %-24s seed: %12.6f  rating: %4d -> %4d vs %4d [diff: %5d]' % (
+                round(user.rank),
+                user.handle,
+                user.seed,
+                user.old_rating,
+                user.new_rating,
+                user.official_new_rating,
+                user.new_rating - user.official_new_rating,
+            ))
+    with open('tests/cf_rating_result_{}.json'.format(contest_id), 'w') as f:
         f.write(json.dumps(res, indent=4))
     print('Validation:', validation)

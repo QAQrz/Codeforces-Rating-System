@@ -1,0 +1,2963 @@
+[
+    {
+        "handle": "OO0OOO00O0OOO0O00OOO0OO",
+        "rank": 1,
+        "old_rating": 3199,
+        "new_rating": 3294,
+        "rating_change": 95
+    },
+    {
+        "handle": "FizzyDavid",
+        "rank": 2,
+        "old_rating": 2816,
+        "new_rating": 2955,
+        "rating_change": 139
+    },
+    {
+        "handle": "ainta",
+        "rank": 3,
+        "old_rating": 2804,
+        "new_rating": 2920,
+        "rating_change": 116
+    },
+    {
+        "handle": "aid",
+        "rank": 4,
+        "old_rating": 2796,
+        "new_rating": 2895,
+        "rating_change": 99
+    },
+    {
+        "handle": "Swistakk",
+        "rank": 5,
+        "old_rating": 2904,
+        "new_rating": 2959,
+        "rating_change": 55
+    },
+    {
+        "handle": "JOHNKRAM",
+        "rank": 6,
+        "old_rating": 2641,
+        "new_rating": 2755,
+        "rating_change": 114
+    },
+    {
+        "handle": "Radewoosh",
+        "rank": 7,
+        "old_rating": 3104,
+        "new_rating": 3084,
+        "rating_change": -20
+    },
+    {
+        "handle": "geniucos",
+        "rank": 8,
+        "old_rating": 2778,
+        "new_rating": 2835,
+        "rating_change": 57
+    },
+    {
+        "handle": "SkyDec",
+        "rank": 9,
+        "old_rating": 3016,
+        "new_rating": 3003,
+        "rating_change": -13
+    },
+    {
+        "handle": "shanquan2",
+        "rank": 10,
+        "old_rating": 2640,
+        "new_rating": 2719,
+        "rating_change": 79
+    },
+    {
+        "handle": "mythologicalsama",
+        "rank": 11,
+        "old_rating": 2383,
+        "new_rating": 2526,
+        "rating_change": 143
+    },
+    {
+        "handle": "RomaWhite",
+        "rank": 12,
+        "old_rating": 2831,
+        "new_rating": 2847,
+        "rating_change": 16
+    },
+    {
+        "handle": "zscoder",
+        "rank": 13,
+        "old_rating": 2626,
+        "new_rating": 2691,
+        "rating_change": 65
+    },
+    {
+        "handle": "Kostroma",
+        "rank": 14,
+        "old_rating": 2716,
+        "new_rating": 2752,
+        "rating_change": 36
+    },
+    {
+        "handle": "gtwgtw",
+        "rank": 15,
+        "old_rating": 2714,
+        "new_rating": 2746,
+        "rating_change": 32
+    },
+    {
+        "handle": "ftiasch",
+        "rank": 16,
+        "old_rating": 2612,
+        "new_rating": 2666,
+        "rating_change": 54
+    },
+    {
+        "handle": "dreamoon",
+        "rank": 17,
+        "old_rating": 2644,
+        "new_rating": 2686,
+        "rating_change": 42
+    },
+    {
+        "handle": "SanSiroWaltz",
+        "rank": 18,
+        "old_rating": 2790,
+        "new_rating": 2789,
+        "rating_change": -1
+    },
+    {
+        "handle": "ACCE12138",
+        "rank": 19,
+        "old_rating": 2176,
+        "new_rating": 2338,
+        "rating_change": 162
+    },
+    {
+        "handle": "KADR",
+        "rank": 20,
+        "old_rating": 2281,
+        "new_rating": 2409,
+        "rating_change": 128
+    },
+    {
+        "handle": "FlZZYDAVlD",
+        "rank": 21,
+        "old_rating": 2325,
+        "new_rating": 2437,
+        "rating_change": 112
+    },
+    {
+        "handle": ".o.",
+        "rank": 22,
+        "old_rating": 2607,
+        "new_rating": 2640,
+        "rating_change": 33
+    },
+    {
+        "handle": "Bredor",
+        "rank": 23,
+        "old_rating": 1979,
+        "new_rating": 2192,
+        "rating_change": 213
+    },
+    {
+        "handle": "FoolMike",
+        "rank": 24,
+        "old_rating": 2342,
+        "new_rating": 2439,
+        "rating_change": 97
+    },
+    {
+        "handle": "KrK",
+        "rank": 25,
+        "old_rating": 2686,
+        "new_rating": 2689,
+        "rating_change": 3
+    },
+    {
+        "handle": "Egor",
+        "rank": 26,
+        "old_rating": 2761,
+        "new_rating": 2742,
+        "rating_change": -19
+    },
+    {
+        "handle": "lewin",
+        "rank": 27,
+        "old_rating": 2466,
+        "new_rating": 2521,
+        "rating_change": 55
+    },
+    {
+        "handle": "lastans",
+        "rank": 28,
+        "old_rating": 2175,
+        "new_rating": 2308,
+        "rating_change": 133
+    },
+    {
+        "handle": "Chelly",
+        "rank": 29,
+        "old_rating": 2484,
+        "new_rating": 2529,
+        "rating_change": 45
+    },
+    {
+        "handle": "kriii",
+        "rank": 30,
+        "old_rating": 2658,
+        "new_rating": 2656,
+        "rating_change": -2
+    },
+    {
+        "handle": "Rafbill",
+        "rank": 31,
+        "old_rating": 2699,
+        "new_rating": 2684,
+        "rating_change": -15
+    },
+    {
+        "handle": "Inventure",
+        "rank": 32,
+        "old_rating": 2350,
+        "new_rating": 2423,
+        "rating_change": 73
+    },
+    {
+        "handle": "Gromah",
+        "rank": 33,
+        "old_rating": 2212,
+        "new_rating": 2321,
+        "rating_change": 109
+    },
+    {
+        "handle": "yeputons",
+        "rank": 34,
+        "old_rating": 2675,
+        "new_rating": 2659,
+        "rating_change": -16
+    },
+    {
+        "handle": "snuke",
+        "rank": 35,
+        "old_rating": 2391,
+        "new_rating": 2447,
+        "rating_change": 56
+    },
+    {
+        "handle": "fanache99",
+        "rank": 37,
+        "old_rating": 2446,
+        "new_rating": 2483,
+        "rating_change": 37
+    },
+    {
+        "handle": "black_horse2014",
+        "rank": 37,
+        "old_rating": 2436,
+        "new_rating": 2475,
+        "rating_change": 39
+    },
+    {
+        "handle": "Marco_L_T",
+        "rank": 38,
+        "old_rating": 2140,
+        "new_rating": 2260,
+        "rating_change": 120
+    },
+    {
+        "handle": "mareksom",
+        "rank": 39,
+        "old_rating": 2562,
+        "new_rating": 2565,
+        "rating_change": 3
+    },
+    {
+        "handle": "asi1024",
+        "rank": 40,
+        "old_rating": 2214,
+        "new_rating": 2308,
+        "rating_change": 94
+    },
+    {
+        "handle": "Will_Dearborn",
+        "rank": 41,
+        "old_rating": 2226,
+        "new_rating": 2314,
+        "rating_change": 88
+    },
+    {
+        "handle": "CommonAnts",
+        "rank": 42,
+        "old_rating": 2178,
+        "new_rating": 2278,
+        "rating_change": 100
+    },
+    {
+        "handle": "jtnydv25",
+        "rank": 43,
+        "old_rating": 2387,
+        "new_rating": 2428,
+        "rating_change": 41
+    },
+    {
+        "handle": "ksun48",
+        "rank": 44,
+        "old_rating": 2751,
+        "new_rating": 2698,
+        "rating_change": -53
+    },
+    {
+        "handle": "darnley",
+        "rank": 45,
+        "old_rating": 2475,
+        "new_rating": 2490,
+        "rating_change": 15
+    },
+    {
+        "handle": "femsub_a",
+        "rank": 46,
+        "old_rating": 2251,
+        "new_rating": 2323,
+        "rating_change": 72
+    },
+    {
+        "handle": "mmaxio",
+        "rank": 47,
+        "old_rating": 2653,
+        "new_rating": 2620,
+        "rating_change": -33
+    },
+    {
+        "handle": "dotorya",
+        "rank": 48,
+        "old_rating": 3236,
+        "new_rating": 3060,
+        "rating_change": -176
+    },
+    {
+        "handle": "khadaev",
+        "rank": 49,
+        "old_rating": 2845,
+        "new_rating": 2762,
+        "rating_change": -83
+    },
+    {
+        "handle": "MrDindows",
+        "rank": 50,
+        "old_rating": 2629,
+        "new_rating": 2597,
+        "rating_change": -32
+    },
+    {
+        "handle": "Errichto",
+        "rank": 51,
+        "old_rating": 2598,
+        "new_rating": 2572,
+        "rating_change": -26
+    },
+    {
+        "handle": "Definitely_Not_Ngkan146",
+        "rank": 52,
+        "old_rating": 1929,
+        "new_rating": 2094,
+        "rating_change": 165
+    },
+    {
+        "handle": "kmjp",
+        "rank": 53,
+        "old_rating": 2592,
+        "new_rating": 2565,
+        "rating_change": -27
+    },
+    {
+        "handle": "ErdemKirez",
+        "rank": 54,
+        "old_rating": 2386,
+        "new_rating": 2410,
+        "rating_change": 24
+    },
+    {
+        "handle": "yasugongshang",
+        "rank": 55,
+        "old_rating": 2105,
+        "new_rating": 2206,
+        "rating_change": 101
+    },
+    {
+        "handle": "Hasan0540",
+        "rank": 56,
+        "old_rating": 2247,
+        "new_rating": 2305,
+        "rating_change": 58
+    },
+    {
+        "handle": "Vercingetorix",
+        "rank": 58,
+        "old_rating": 2491,
+        "new_rating": 2482,
+        "rating_change": -9
+    },
+    {
+        "handle": "sharph",
+        "rank": 58,
+        "old_rating": 2262,
+        "new_rating": 2313,
+        "rating_change": 51
+    },
+    {
+        "handle": "Motarack",
+        "rank": 59,
+        "old_rating": 2113,
+        "new_rating": 2205,
+        "rating_change": 92
+    },
+    {
+        "handle": "Kattana",
+        "rank": 60,
+        "old_rating": 2267,
+        "new_rating": 2314,
+        "rating_change": 47
+    },
+    {
+        "handle": "chokudai",
+        "rank": 61,
+        "old_rating": 2336,
+        "new_rating": 2363,
+        "rating_change": 27
+    },
+    {
+        "handle": "gepardo",
+        "rank": 62,
+        "old_rating": 2344,
+        "new_rating": 2368,
+        "rating_change": 24
+    },
+    {
+        "handle": "praran26",
+        "rank": 63,
+        "old_rating": 2024,
+        "new_rating": 2139,
+        "rating_change": 115
+    },
+    {
+        "handle": "woqja125",
+        "rank": 64,
+        "old_rating": 2348,
+        "new_rating": 2368,
+        "rating_change": 20
+    },
+    {
+        "handle": "I_Want_Alex_R_Coleman",
+        "rank": 65,
+        "old_rating": 2251,
+        "new_rating": 2296,
+        "rating_change": 45
+    },
+    {
+        "handle": "andrey_efremov",
+        "rank": 67,
+        "old_rating": 2192,
+        "new_rating": 2251,
+        "rating_change": 59
+    },
+    {
+        "handle": "Brightness",
+        "rank": 67,
+        "old_rating": 2089,
+        "new_rating": 2178,
+        "rating_change": 89
+    },
+    {
+        "handle": "StarCuriosity",
+        "rank": 68,
+        "old_rating": 2220,
+        "new_rating": 2270,
+        "rating_change": 50
+    },
+    {
+        "handle": "logicmachine",
+        "rank": 70,
+        "old_rating": 2237,
+        "new_rating": 2280,
+        "rating_change": 43
+    },
+    {
+        "handle": "AomeII",
+        "rank": 70,
+        "old_rating": 2090,
+        "new_rating": 2175,
+        "rating_change": 85
+    },
+    {
+        "handle": "Hansuzu",
+        "rank": 71,
+        "old_rating": 1985,
+        "new_rating": 2103,
+        "rating_change": 118
+    },
+    {
+        "handle": "fetetriste",
+        "rank": 72,
+        "old_rating": 2176,
+        "new_rating": 2233,
+        "rating_change": 57
+    },
+    {
+        "handle": "EmanuelNrx",
+        "rank": 73,
+        "old_rating": 2067,
+        "new_rating": 2156,
+        "rating_change": 89
+    },
+    {
+        "handle": "djq_cpp",
+        "rank": 75,
+        "old_rating": 2228,
+        "new_rating": 2268,
+        "rating_change": 40
+    },
+    {
+        "handle": "maksay",
+        "rank": 75,
+        "old_rating": 2152,
+        "new_rating": 2213,
+        "rating_change": 61
+    },
+    {
+        "handle": "FCB1234",
+        "rank": 76,
+        "old_rating": 2481,
+        "new_rating": 2454,
+        "rating_change": -27
+    },
+    {
+        "handle": "Jatana",
+        "rank": 77,
+        "old_rating": 2043,
+        "new_rating": 2135,
+        "rating_change": 92
+    },
+    {
+        "handle": "imaxblue",
+        "rank": 79,
+        "old_rating": 2290,
+        "new_rating": 2309,
+        "rating_change": 19
+    },
+    {
+        "handle": "alexrcoleman",
+        "rank": 79,
+        "old_rating": 2255,
+        "new_rating": 2283,
+        "rating_change": 28
+    },
+    {
+        "handle": "M.Mahdi",
+        "rank": 80,
+        "old_rating": 2421,
+        "new_rating": 2405,
+        "rating_change": -16
+    },
+    {
+        "handle": "eddy1021",
+        "rank": 82,
+        "old_rating": 2641,
+        "new_rating": 2569,
+        "rating_change": -72
+    },
+    {
+        "handle": "HMAXS",
+        "rank": 82,
+        "old_rating": 2044,
+        "new_rating": 2130,
+        "rating_change": 86
+    },
+    {
+        "handle": "guille",
+        "rank": 84,
+        "old_rating": 2321,
+        "new_rating": 2327,
+        "rating_change": 6
+    },
+    {
+        "handle": "Mariusz1",
+        "rank": 84,
+        "old_rating": 2318,
+        "new_rating": 2324,
+        "rating_change": 6
+    },
+    {
+        "handle": "Adalbert",
+        "rank": 86,
+        "old_rating": 2184,
+        "new_rating": 2224,
+        "rating_change": 40
+    },
+    {
+        "handle": "Luqman",
+        "rank": 86,
+        "old_rating": 2057,
+        "new_rating": 2135,
+        "rating_change": 78
+    },
+    {
+        "handle": "sienmich",
+        "rank": 87,
+        "old_rating": 1996,
+        "new_rating": 2093,
+        "rating_change": 97
+    },
+    {
+        "handle": "osmanorhan",
+        "rank": 88,
+        "old_rating": 2136,
+        "new_rating": 2188,
+        "rating_change": 52
+    },
+    {
+        "handle": "Golovanov399",
+        "rank": 90,
+        "old_rating": 2636,
+        "new_rating": 2558,
+        "rating_change": -78
+    },
+    {
+        "handle": "AleksanderBalobanov",
+        "rank": 90,
+        "old_rating": 2142,
+        "new_rating": 2191,
+        "rating_change": 49
+    },
+    {
+        "handle": "I_love_isaf27",
+        "rank": 91,
+        "old_rating": 2176,
+        "new_rating": 2214,
+        "rating_change": 38
+    },
+    {
+        "handle": "hamlet",
+        "rank": 92,
+        "old_rating": 2027,
+        "new_rating": 2109,
+        "rating_change": 82
+    },
+    {
+        "handle": "abc473848880",
+        "rank": 94,
+        "old_rating": 2118,
+        "new_rating": 2170,
+        "rating_change": 52
+    },
+    {
+        "handle": "Sergey.Bankevich",
+        "rank": 94,
+        "old_rating": 2027,
+        "new_rating": 2107,
+        "rating_change": 80
+    },
+    {
+        "handle": "aidos",
+        "rank": 95,
+        "old_rating": 2342,
+        "new_rating": 2332,
+        "rating_change": -10
+    },
+    {
+        "handle": "scopeInfinity",
+        "rank": 96,
+        "old_rating": 2047,
+        "new_rating": 2118,
+        "rating_change": 71
+    },
+    {
+        "handle": "petrescu",
+        "rank": 99,
+        "old_rating": 2290,
+        "new_rating": 2290,
+        "rating_change": 0
+    },
+    {
+        "handle": "shadowatyy",
+        "rank": 99,
+        "old_rating": 2257,
+        "new_rating": 2266,
+        "rating_change": 9
+    },
+    {
+        "handle": "besher",
+        "rank": 99,
+        "old_rating": 2078,
+        "new_rating": 2137,
+        "rating_change": 59
+    },
+    {
+        "handle": "Nero",
+        "rank": 100,
+        "old_rating": 2260,
+        "new_rating": 2267,
+        "rating_change": 7
+    },
+    {
+        "handle": "Marcin_smu",
+        "rank": 103,
+        "old_rating": 2690,
+        "new_rating": 2589,
+        "rating_change": -101
+    },
+    {
+        "handle": "Quang",
+        "rank": 103,
+        "old_rating": 2284,
+        "new_rating": 2283,
+        "rating_change": -1
+    },
+    {
+        "handle": "busamate",
+        "rank": 103,
+        "old_rating": 1949,
+        "new_rating": 2046,
+        "rating_change": 97
+    },
+    {
+        "handle": "wrinx",
+        "rank": 105,
+        "old_rating": 2334,
+        "new_rating": 2318,
+        "rating_change": -16
+    },
+    {
+        "handle": "RamTararam",
+        "rank": 105,
+        "old_rating": 2219,
+        "new_rating": 2233,
+        "rating_change": 14
+    },
+    {
+        "handle": "HardW3ll",
+        "rank": 106,
+        "old_rating": 2171,
+        "new_rating": 2197,
+        "rating_change": 26
+    },
+    {
+        "handle": "abeker",
+        "rank": 107,
+        "old_rating": 2326,
+        "new_rating": 2311,
+        "rating_change": -15
+    },
+    {
+        "handle": "Mstdream",
+        "rank": 108,
+        "old_rating": 2127,
+        "new_rating": 2164,
+        "rating_change": 37
+    },
+    {
+        "handle": "ami",
+        "rank": 109,
+        "old_rating": 1927,
+        "new_rating": 2026,
+        "rating_change": 99
+    },
+    {
+        "handle": "akaiNeko",
+        "rank": 110,
+        "old_rating": 2302,
+        "new_rating": 2291,
+        "rating_change": -11
+    },
+    {
+        "handle": "satanic0",
+        "rank": 112,
+        "old_rating": 2001,
+        "new_rating": 2073,
+        "rating_change": 72
+    },
+    {
+        "handle": "kostka",
+        "rank": 112,
+        "old_rating": 1930,
+        "new_rating": 2026,
+        "rating_change": 96
+    },
+    {
+        "handle": "kvk1920",
+        "rank": 113,
+        "old_rating": 1922,
+        "new_rating": 2020,
+        "rating_change": 98
+    },
+    {
+        "handle": "atatomir",
+        "rank": 114,
+        "old_rating": 2407,
+        "new_rating": 2367,
+        "rating_change": -40
+    },
+    {
+        "handle": "AryanSM",
+        "rank": 116,
+        "old_rating": 2170,
+        "new_rating": 2189,
+        "rating_change": 19
+    },
+    {
+        "handle": "Rafiki53",
+        "rank": 116,
+        "old_rating": 2107,
+        "new_rating": 2143,
+        "rating_change": 36
+    },
+    {
+        "handle": "Jakube",
+        "rank": 117,
+        "old_rating": 2154,
+        "new_rating": 2176,
+        "rating_change": 22
+    },
+    {
+        "handle": "xht13127",
+        "rank": 118,
+        "old_rating": 2094,
+        "new_rating": 2132,
+        "rating_change": 38
+    },
+    {
+        "handle": "ShinriiTin",
+        "rank": 122,
+        "old_rating": 2187,
+        "new_rating": 2197,
+        "rating_change": 10
+    },
+    {
+        "handle": "lyoz",
+        "rank": 122,
+        "old_rating": 2031,
+        "new_rating": 2085,
+        "rating_change": 54
+    },
+    {
+        "handle": "Sonechko",
+        "rank": 122,
+        "old_rating": 1976,
+        "new_rating": 2048,
+        "rating_change": 72
+    },
+    {
+        "handle": "jodik",
+        "rank": 122,
+        "old_rating": 1910,
+        "new_rating": 2004,
+        "rating_change": 94
+    },
+    {
+        "handle": "khokho",
+        "rank": 123,
+        "old_rating": 2118,
+        "new_rating": 2146,
+        "rating_change": 28
+    },
+    {
+        "handle": "misztsu",
+        "rank": 126,
+        "old_rating": 2091,
+        "new_rating": 2124,
+        "rating_change": 33
+    },
+    {
+        "handle": "lgkm39",
+        "rank": 126,
+        "old_rating": 2017,
+        "new_rating": 2073,
+        "rating_change": 56
+    },
+    {
+        "handle": "SharpC",
+        "rank": 126,
+        "old_rating": 1955,
+        "new_rating": 2031,
+        "rating_change": 76
+    },
+    {
+        "handle": "TadijaSebez",
+        "rank": 127,
+        "old_rating": 1937,
+        "new_rating": 2018,
+        "rating_change": 81
+    },
+    {
+        "handle": "Hiasat",
+        "rank": 129,
+        "old_rating": 1949,
+        "new_rating": 2024,
+        "rating_change": 75
+    },
+    {
+        "handle": "ComradeMike",
+        "rank": 129,
+        "old_rating": 1939,
+        "new_rating": 2018,
+        "rating_change": 79
+    },
+    {
+        "handle": "danya.smelskiy",
+        "rank": 130,
+        "old_rating": 2146,
+        "new_rating": 2161,
+        "rating_change": 15
+    },
+    {
+        "handle": "Giove",
+        "rank": 131,
+        "old_rating": 2165,
+        "new_rating": 2174,
+        "rating_change": 9
+    },
+    {
+        "handle": "simple",
+        "rank": 134,
+        "old_rating": 2381,
+        "new_rating": 2334,
+        "rating_change": -47
+    },
+    {
+        "handle": "pmnox",
+        "rank": 134,
+        "old_rating": 2191,
+        "new_rating": 2191,
+        "rating_change": 0
+    },
+    {
+        "handle": "16silver",
+        "rank": 134,
+        "old_rating": 2090,
+        "new_rating": 2118,
+        "rating_change": 28
+    },
+    {
+        "handle": "JiK",
+        "rank": 135,
+        "old_rating": 2162,
+        "new_rating": 2169,
+        "rating_change": 7
+    },
+    {
+        "handle": "Tohsaka",
+        "rank": 137,
+        "old_rating": 2172,
+        "new_rating": 2175,
+        "rating_change": 3
+    },
+    {
+        "handle": "Ali.Kh",
+        "rank": 137,
+        "old_rating": 2106,
+        "new_rating": 2127,
+        "rating_change": 21
+    },
+    {
+        "handle": "nwi",
+        "rank": 138,
+        "old_rating": 2342,
+        "new_rating": 2302,
+        "rating_change": -40
+    },
+    {
+        "handle": "NgocHai",
+        "rank": 140,
+        "old_rating": 2160,
+        "new_rating": 2164,
+        "rating_change": 4
+    },
+    {
+        "handle": "Dani",
+        "rank": 140,
+        "old_rating": 1904,
+        "new_rating": 1986,
+        "rating_change": 82
+    },
+    {
+        "handle": "Timur_Sitdikov",
+        "rank": 142,
+        "old_rating": 2373,
+        "new_rating": 2323,
+        "rating_change": -50
+    },
+    {
+        "handle": "msaska9",
+        "rank": 142,
+        "old_rating": 1904,
+        "new_rating": 1985,
+        "rating_change": 81
+    },
+    {
+        "handle": "zhongzihao",
+        "rank": 144,
+        "old_rating": 2316,
+        "new_rating": 2279,
+        "rating_change": -37
+    },
+    {
+        "handle": "2013300262",
+        "rank": 144,
+        "old_rating": 1988,
+        "new_rating": 2039,
+        "rating_change": 51
+    },
+    {
+        "handle": "nezametdinov",
+        "rank": 146,
+        "old_rating": 2047,
+        "new_rating": 2079,
+        "rating_change": 32
+    },
+    {
+        "handle": "Honour_00",
+        "rank": 146,
+        "old_rating": 1984,
+        "new_rating": 2035,
+        "rating_change": 51
+    },
+    {
+        "handle": "prof.PVH",
+        "rank": 150,
+        "old_rating": 2253,
+        "new_rating": 2228,
+        "rating_change": -25
+    },
+    {
+        "handle": "beet",
+        "rank": 150,
+        "old_rating": 2167,
+        "new_rating": 2163,
+        "rating_change": -4
+    },
+    {
+        "handle": "Lo_R_D",
+        "rank": 150,
+        "old_rating": 2038,
+        "new_rating": 2070,
+        "rating_change": 32
+    },
+    {
+        "handle": "SebinKim",
+        "rank": 150,
+        "old_rating": 2024,
+        "new_rating": 2060,
+        "rating_change": 36
+    },
+    {
+        "handle": "8shubham",
+        "rank": 152,
+        "old_rating": 2004,
+        "new_rating": 2045,
+        "rating_change": 41
+    },
+    {
+        "handle": "RCG",
+        "rank": 152,
+        "old_rating": 1982,
+        "new_rating": 2030,
+        "rating_change": 48
+    },
+    {
+        "handle": "MPeti",
+        "rank": 153,
+        "old_rating": 2107,
+        "new_rating": 2117,
+        "rating_change": 10
+    },
+    {
+        "handle": "Filyan",
+        "rank": 155,
+        "old_rating": 2069,
+        "new_rating": 2089,
+        "rating_change": 20
+    },
+    {
+        "handle": "ayakut",
+        "rank": 155,
+        "old_rating": 1973,
+        "new_rating": 2021,
+        "rating_change": 48
+    },
+    {
+        "handle": "taow",
+        "rank": 156,
+        "old_rating": 2060,
+        "new_rating": 2082,
+        "rating_change": 22
+    },
+    {
+        "handle": "tfg",
+        "rank": 160,
+        "old_rating": 2218,
+        "new_rating": 2196,
+        "rating_change": -22
+    },
+    {
+        "handle": "Tann",
+        "rank": 160,
+        "old_rating": 2049,
+        "new_rating": 2071,
+        "rating_change": 22
+    },
+    {
+        "handle": "IHaveInt",
+        "rank": 160,
+        "old_rating": 2037,
+        "new_rating": 2063,
+        "rating_change": 26
+    },
+    {
+        "handle": "nikabb",
+        "rank": 160,
+        "old_rating": 1993,
+        "new_rating": 2032,
+        "rating_change": 39
+    },
+    {
+        "handle": "kobae964",
+        "rank": 161,
+        "old_rating": 2185,
+        "new_rating": 2170,
+        "rating_change": -15
+    },
+    {
+        "handle": "123a6bcw",
+        "rank": 164,
+        "old_rating": 1962,
+        "new_rating": 2008,
+        "rating_change": 46
+    },
+    {
+        "handle": "vanvector",
+        "rank": 164,
+        "old_rating": 1940,
+        "new_rating": 1993,
+        "rating_change": 53
+    },
+    {
+        "handle": "fauzdar65",
+        "rank": 164,
+        "old_rating": 1911,
+        "new_rating": 1974,
+        "rating_change": 63
+    },
+    {
+        "handle": "Melnyk",
+        "rank": 165,
+        "old_rating": 2210,
+        "new_rating": 2187,
+        "rating_change": -23
+    },
+    {
+        "handle": "TripleM5da",
+        "rank": 167,
+        "old_rating": 2044,
+        "new_rating": 2063,
+        "rating_change": 19
+    },
+    {
+        "handle": "Meowl",
+        "rank": 167,
+        "old_rating": 1914,
+        "new_rating": 1974,
+        "rating_change": 60
+    },
+    {
+        "handle": "tube_light",
+        "rank": 168,
+        "old_rating": 1909,
+        "new_rating": 1970,
+        "rating_change": 61
+    },
+    {
+        "handle": "Bugman",
+        "rank": 169,
+        "old_rating": 2317,
+        "new_rating": 2266,
+        "rating_change": -51
+    },
+    {
+        "handle": "Damon",
+        "rank": 171,
+        "old_rating": 2254,
+        "new_rating": 2217,
+        "rating_change": -37
+    },
+    {
+        "handle": "yashar_sb_sb",
+        "rank": 171,
+        "old_rating": 2162,
+        "new_rating": 2147,
+        "rating_change": -15
+    },
+    {
+        "handle": "mango_lassi",
+        "rank": 173,
+        "old_rating": 2294,
+        "new_rating": 2246,
+        "rating_change": -48
+    },
+    {
+        "handle": "ckodser",
+        "rank": 173,
+        "old_rating": 1975,
+        "new_rating": 2011,
+        "rating_change": 36
+    },
+    {
+        "handle": "liuaohanjsj",
+        "rank": 174,
+        "old_rating": 1999,
+        "new_rating": 2027,
+        "rating_change": 28
+    },
+    {
+        "handle": "Noam527",
+        "rank": 175,
+        "old_rating": 2062,
+        "new_rating": 2071,
+        "rating_change": 9
+    },
+    {
+        "handle": "Farhod_Farmon",
+        "rank": 176,
+        "old_rating": 2166,
+        "new_rating": 2147,
+        "rating_change": -19
+    },
+    {
+        "handle": "Melnik",
+        "rank": 177,
+        "old_rating": 2128,
+        "new_rating": 2119,
+        "rating_change": -9
+    },
+    {
+        "handle": "alex_Harry",
+        "rank": 178,
+        "old_rating": 2222,
+        "new_rating": 2189,
+        "rating_change": -33
+    },
+    {
+        "handle": "binsjl",
+        "rank": 179,
+        "old_rating": 1988,
+        "new_rating": 2016,
+        "rating_change": 28
+    },
+    {
+        "handle": "helThazar",
+        "rank": 180,
+        "old_rating": 1981,
+        "new_rating": 2011,
+        "rating_change": 30
+    },
+    {
+        "handle": "Mohammad.Sj",
+        "rank": 181,
+        "old_rating": 2137,
+        "new_rating": 2123,
+        "rating_change": -14
+    },
+    {
+        "handle": "DmitryGrigorev",
+        "rank": 182,
+        "old_rating": 2282,
+        "new_rating": 2233,
+        "rating_change": -49
+    },
+    {
+        "handle": "isaf27",
+        "rank": 184,
+        "old_rating": 2368,
+        "new_rating": 2297,
+        "rating_change": -71
+    },
+    {
+        "handle": "ATS",
+        "rank": 184,
+        "old_rating": 2012,
+        "new_rating": 2030,
+        "rating_change": 18
+    },
+    {
+        "handle": "Sunnat",
+        "rank": 185,
+        "old_rating": 2146,
+        "new_rating": 2128,
+        "rating_change": -18
+    },
+    {
+        "handle": "Jeel_Vaishnav",
+        "rank": 188,
+        "old_rating": 2061,
+        "new_rating": 2063,
+        "rating_change": 2
+    },
+    {
+        "handle": "PhoenixEclipse",
+        "rank": 188,
+        "old_rating": 2045,
+        "new_rating": 2052,
+        "rating_change": 7
+    },
+    {
+        "handle": "neko13",
+        "rank": 188,
+        "old_rating": 1952,
+        "new_rating": 1986,
+        "rating_change": 34
+    },
+    {
+        "handle": "ShavelV",
+        "rank": 190,
+        "old_rating": 2071,
+        "new_rating": 2069,
+        "rating_change": -2
+    },
+    {
+        "handle": "I-Love-Islam",
+        "rank": 190,
+        "old_rating": 1930,
+        "new_rating": 1969,
+        "rating_change": 39
+    },
+    {
+        "handle": "roberiosalesc",
+        "rank": 191,
+        "old_rating": 2133,
+        "new_rating": 2115,
+        "rating_change": -18
+    },
+    {
+        "handle": "JKS_PL",
+        "rank": 192,
+        "old_rating": 2274,
+        "new_rating": 2222,
+        "rating_change": -52
+    },
+    {
+        "handle": "rui-de",
+        "rank": 193,
+        "old_rating": 2032,
+        "new_rating": 2039,
+        "rating_change": 7
+    },
+    {
+        "handle": "ei133333",
+        "rank": 195,
+        "old_rating": 2208,
+        "new_rating": 2170,
+        "rating_change": -38
+    },
+    {
+        "handle": "ObiBlatKenobi",
+        "rank": 195,
+        "old_rating": 2027,
+        "new_rating": 2035,
+        "rating_change": 8
+    },
+    {
+        "handle": "Ali_Pi",
+        "rank": 196,
+        "old_rating": 1935,
+        "new_rating": 1969,
+        "rating_change": 34
+    },
+    {
+        "handle": "lnsuyn",
+        "rank": 197,
+        "old_rating": 1989,
+        "new_rating": 2006,
+        "rating_change": 17
+    },
+    {
+        "handle": "CSTCurry",
+        "rank": 198,
+        "old_rating": 2027,
+        "new_rating": 2033,
+        "rating_change": 6
+    },
+    {
+        "handle": "maxplus",
+        "rank": 199,
+        "old_rating": 2027,
+        "new_rating": 2032,
+        "rating_change": 5
+    },
+    {
+        "handle": "alex9801",
+        "rank": 201,
+        "old_rating": 2318,
+        "new_rating": 2251,
+        "rating_change": -67
+    },
+    {
+        "handle": "onjo0127",
+        "rank": 201,
+        "old_rating": 1955,
+        "new_rating": 1980,
+        "rating_change": 25
+    },
+    {
+        "handle": "0.o.0..",
+        "rank": 202,
+        "old_rating": 2095,
+        "new_rating": 2081,
+        "rating_change": -14
+    },
+    {
+        "handle": "pawelek1",
+        "rank": 204,
+        "old_rating": 2241,
+        "new_rating": 2191,
+        "rating_change": -50
+    },
+    {
+        "handle": "xpchf",
+        "rank": 204,
+        "old_rating": 2033,
+        "new_rating": 2034,
+        "rating_change": 1
+    },
+    {
+        "handle": "omidazadi",
+        "rank": 205,
+        "old_rating": 2005,
+        "new_rating": 2013,
+        "rating_change": 8
+    },
+    {
+        "handle": "Heisenbug",
+        "rank": 206,
+        "old_rating": 1977,
+        "new_rating": 1992,
+        "rating_change": 15
+    },
+    {
+        "handle": "diswizetionallities",
+        "rank": 207,
+        "old_rating": 1943,
+        "new_rating": 1968,
+        "rating_change": 25
+    },
+    {
+        "handle": "CLDP",
+        "rank": 208,
+        "old_rating": 2083,
+        "new_rating": 2068,
+        "rating_change": -15
+    },
+    {
+        "handle": "Ilya_MSU",
+        "rank": 210,
+        "old_rating": 2203,
+        "new_rating": 2159,
+        "rating_change": -44
+    },
+    {
+        "handle": "777777777",
+        "rank": 210,
+        "old_rating": 1924,
+        "new_rating": 1953,
+        "rating_change": 29
+    },
+    {
+        "handle": "tjw_girlfriend",
+        "rank": 212,
+        "old_rating": 2258,
+        "new_rating": 2200,
+        "rating_change": -58
+    },
+    {
+        "handle": "wshwsh12",
+        "rank": 212,
+        "old_rating": 2151,
+        "new_rating": 2118,
+        "rating_change": -33
+    },
+    {
+        "handle": "Juve45",
+        "rank": 213,
+        "old_rating": 1966,
+        "new_rating": 1981,
+        "rating_change": 15
+    },
+    {
+        "handle": "swenyoo",
+        "rank": 214,
+        "old_rating": 1958,
+        "new_rating": 1974,
+        "rating_change": 16
+    },
+    {
+        "handle": "zas409257934",
+        "rank": 215,
+        "old_rating": 2042,
+        "new_rating": 2034,
+        "rating_change": -8
+    },
+    {
+        "handle": "Malinovsky239",
+        "rank": 217,
+        "old_rating": 2082,
+        "new_rating": 2063,
+        "rating_change": -19
+    },
+    {
+        "handle": "hamayanhamayan",
+        "rank": 217,
+        "old_rating": 1998,
+        "new_rating": 2001,
+        "rating_change": 3
+    },
+    {
+        "handle": "born2rule",
+        "rank": 218,
+        "old_rating": 1912,
+        "new_rating": 1940,
+        "rating_change": 28
+    },
+    {
+        "handle": "pb0207",
+        "rank": 219,
+        "old_rating": 1932,
+        "new_rating": 1953,
+        "rating_change": 21
+    },
+    {
+        "handle": "Hyperbolic",
+        "rank": 220,
+        "old_rating": 2018,
+        "new_rating": 2014,
+        "rating_change": -4
+    },
+    {
+        "handle": "PItS",
+        "rank": 221,
+        "old_rating": 1986,
+        "new_rating": 1990,
+        "rating_change": 4
+    },
+    {
+        "handle": "q707185547",
+        "rank": 222,
+        "old_rating": 2200,
+        "new_rating": 2151,
+        "rating_change": -49
+    },
+    {
+        "handle": "ChickenInKitchen",
+        "rank": 223,
+        "old_rating": 2040,
+        "new_rating": 2029,
+        "rating_change": -11
+    },
+    {
+        "handle": "Barbossa",
+        "rank": 224,
+        "old_rating": 1954,
+        "new_rating": 1966,
+        "rating_change": 12
+    },
+    {
+        "handle": "Karasick",
+        "rank": 226,
+        "old_rating": 1916,
+        "new_rating": 1938,
+        "rating_change": 22
+    },
+    {
+        "handle": "henryx",
+        "rank": 226,
+        "old_rating": 1912,
+        "new_rating": 1935,
+        "rating_change": 23
+    },
+    {
+        "handle": "Markellonchik",
+        "rank": 227,
+        "old_rating": 2006,
+        "new_rating": 2002,
+        "rating_change": -4
+    },
+    {
+        "handle": "architkarandikar",
+        "rank": 229,
+        "old_rating": 2077,
+        "new_rating": 2054,
+        "rating_change": -23
+    },
+    {
+        "handle": "TearinFree",
+        "rank": 229,
+        "old_rating": 2071,
+        "new_rating": 2049,
+        "rating_change": -22
+    },
+    {
+        "handle": "193s",
+        "rank": 231,
+        "old_rating": 2065,
+        "new_rating": 2044,
+        "rating_change": -21
+    },
+    {
+        "handle": "SlavaSSU",
+        "rank": 231,
+        "old_rating": 1946,
+        "new_rating": 1956,
+        "rating_change": 10
+    },
+    {
+        "handle": "mshcherba",
+        "rank": 232,
+        "old_rating": 2058,
+        "new_rating": 2038,
+        "rating_change": -20
+    },
+    {
+        "handle": "LifeCracker",
+        "rank": 233,
+        "old_rating": 2052,
+        "new_rating": 2032,
+        "rating_change": -20
+    },
+    {
+        "handle": "mowji",
+        "rank": 234,
+        "old_rating": 1992,
+        "new_rating": 1988,
+        "rating_change": -4
+    },
+    {
+        "handle": "Anoxiacxy",
+        "rank": 235,
+        "old_rating": 1979,
+        "new_rating": 1978,
+        "rating_change": -1
+    },
+    {
+        "handle": "thinfaifai",
+        "rank": 236,
+        "old_rating": 2108,
+        "new_rating": 2074,
+        "rating_change": -34
+    },
+    {
+        "handle": "ANTIMIRAGE",
+        "rank": 237,
+        "old_rating": 1908,
+        "new_rating": 1926,
+        "rating_change": 18
+    },
+    {
+        "handle": "sonya123",
+        "rank": 238,
+        "old_rating": 2115,
+        "new_rating": 2078,
+        "rating_change": -37
+    },
+    {
+        "handle": "WreckingBall",
+        "rank": 239,
+        "old_rating": 2041,
+        "new_rating": 2021,
+        "rating_change": -20
+    },
+    {
+        "handle": "sanyamg123",
+        "rank": 240,
+        "old_rating": 1949,
+        "new_rating": 1953,
+        "rating_change": 4
+    },
+    {
+        "handle": "aminra",
+        "rank": 241,
+        "old_rating": 1935,
+        "new_rating": 1943,
+        "rating_change": 8
+    },
+    {
+        "handle": "T1duS",
+        "rank": 242,
+        "old_rating": 2010,
+        "new_rating": 1997,
+        "rating_change": -13
+    },
+    {
+        "handle": "mkisic",
+        "rank": 243,
+        "old_rating": 2063,
+        "new_rating": 2036,
+        "rating_change": -27
+    },
+    {
+        "handle": "Rudy420",
+        "rank": 244,
+        "old_rating": 1980,
+        "new_rating": 1973,
+        "rating_change": -7
+    },
+    {
+        "handle": "paruki",
+        "rank": 245,
+        "old_rating": 2089,
+        "new_rating": 2055,
+        "rating_change": -34
+    },
+    {
+        "handle": "ooaa",
+        "rank": 246,
+        "old_rating": 2055,
+        "new_rating": 2029,
+        "rating_change": -26
+    },
+    {
+        "handle": "Ivars",
+        "rank": 247,
+        "old_rating": 2083,
+        "new_rating": 2050,
+        "rating_change": -33
+    },
+    {
+        "handle": "ShivRam",
+        "rank": 248,
+        "old_rating": 1959,
+        "new_rating": 1956,
+        "rating_change": -3
+    },
+    {
+        "handle": "JATC",
+        "rank": 249,
+        "old_rating": 2001,
+        "new_rating": 1986,
+        "rating_change": -15
+    },
+    {
+        "handle": "Na2a",
+        "rank": 250,
+        "old_rating": 2249,
+        "new_rating": 2177,
+        "rating_change": -72
+    },
+    {
+        "handle": "SimB4",
+        "rank": 251,
+        "old_rating": 1968,
+        "new_rating": 1961,
+        "rating_change": -7
+    },
+    {
+        "handle": "boook",
+        "rank": 254,
+        "old_rating": 2190,
+        "new_rating": 2129,
+        "rating_change": -61
+    },
+    {
+        "handle": "fragusbot",
+        "rank": 254,
+        "old_rating": 2035,
+        "new_rating": 2010,
+        "rating_change": -25
+    },
+    {
+        "handle": "zml",
+        "rank": 254,
+        "old_rating": 1960,
+        "new_rating": 1953,
+        "rating_change": -7
+    },
+    {
+        "handle": "hm_98",
+        "rank": 255,
+        "old_rating": 1958,
+        "new_rating": 1951,
+        "rating_change": -7
+    },
+    {
+        "handle": "hank55663",
+        "rank": 258,
+        "old_rating": 2127,
+        "new_rating": 2078,
+        "rating_change": -49
+    },
+    {
+        "handle": "wcwswswws",
+        "rank": 258,
+        "old_rating": 1988,
+        "new_rating": 1972,
+        "rating_change": -16
+    },
+    {
+        "handle": "repeating",
+        "rank": 258,
+        "old_rating": 1910,
+        "new_rating": 1915,
+        "rating_change": 5
+    },
+    {
+        "handle": "Lollipop",
+        "rank": 260,
+        "old_rating": 2120,
+        "new_rating": 2072,
+        "rating_change": -48
+    },
+    {
+        "handle": "Bodo",
+        "rank": 260,
+        "old_rating": 2073,
+        "new_rating": 2036,
+        "rating_change": -37
+    },
+    {
+        "handle": "euler_1998",
+        "rank": 261,
+        "old_rating": 1944,
+        "new_rating": 1938,
+        "rating_change": -6
+    },
+    {
+        "handle": "KARM",
+        "rank": 262,
+        "old_rating": 2011,
+        "new_rating": 1988,
+        "rating_change": -23
+    },
+    {
+        "handle": "txingml",
+        "rank": 263,
+        "old_rating": 1949,
+        "new_rating": 1940,
+        "rating_change": -9
+    },
+    {
+        "handle": "mishraiiit",
+        "rank": 264,
+        "old_rating": 1971,
+        "new_rating": 1956,
+        "rating_change": -15
+    },
+    {
+        "handle": "Mohammad_kilani",
+        "rank": 265,
+        "old_rating": 2025,
+        "new_rating": 1997,
+        "rating_change": -28
+    },
+    {
+        "handle": "HuaKeJiZhe",
+        "rank": 266,
+        "old_rating": 2021,
+        "new_rating": 1993,
+        "rating_change": -28
+    },
+    {
+        "handle": "Svlad_Cjelli",
+        "rank": 268,
+        "old_rating": 2091,
+        "new_rating": 2046,
+        "rating_change": -45
+    },
+    {
+        "handle": "meijun",
+        "rank": 268,
+        "old_rating": 1976,
+        "new_rating": 1958,
+        "rating_change": -18
+    },
+    {
+        "handle": "N.E.R.O",
+        "rank": 270,
+        "old_rating": 2018,
+        "new_rating": 1989,
+        "rating_change": -29
+    },
+    {
+        "handle": "Husayn.",
+        "rank": 270,
+        "old_rating": 1953,
+        "new_rating": 1940,
+        "rating_change": -13
+    },
+    {
+        "handle": "reality420",
+        "rank": 271,
+        "old_rating": 2254,
+        "new_rating": 2173,
+        "rating_change": -81
+    },
+    {
+        "handle": "okaduki1",
+        "rank": 272,
+        "old_rating": 2059,
+        "new_rating": 2019,
+        "rating_change": -40
+    },
+    {
+        "handle": "vbobrov",
+        "rank": 273,
+        "old_rating": 1916,
+        "new_rating": 1911,
+        "rating_change": -5
+    },
+    {
+        "handle": "yashChandnani",
+        "rank": 274,
+        "old_rating": 2057,
+        "new_rating": 2017,
+        "rating_change": -40
+    },
+    {
+        "handle": "thai9cdb1",
+        "rank": 275,
+        "old_rating": 1989,
+        "new_rating": 1964,
+        "rating_change": -25
+    },
+    {
+        "handle": "Nasic_number_one",
+        "rank": 276,
+        "old_rating": 2042,
+        "new_rating": 2004,
+        "rating_change": -38
+    },
+    {
+        "handle": "dlhham",
+        "rank": 277,
+        "old_rating": 2100,
+        "new_rating": 2049,
+        "rating_change": -51
+    },
+    {
+        "handle": "Caproner",
+        "rank": 278,
+        "old_rating": 1986,
+        "new_rating": 1961,
+        "rating_change": -25
+    },
+    {
+        "handle": "Tachibana_Marika",
+        "rank": 279,
+        "old_rating": 2191,
+        "new_rating": 2120,
+        "rating_change": -71
+    },
+    {
+        "handle": "XZA",
+        "rank": 280,
+        "old_rating": 1951,
+        "new_rating": 1933,
+        "rating_change": -18
+    },
+    {
+        "handle": "muratakburak",
+        "rank": 281,
+        "old_rating": 2017,
+        "new_rating": 1983,
+        "rating_change": -34
+    },
+    {
+        "handle": "..................",
+        "rank": 282,
+        "old_rating": 1953,
+        "new_rating": 1933,
+        "rating_change": -20
+    },
+    {
+        "handle": "WildUtah",
+        "rank": 283,
+        "old_rating": 1976,
+        "new_rating": 1950,
+        "rating_change": -26
+    },
+    {
+        "handle": "Saber_Excalibur",
+        "rank": 284,
+        "old_rating": 2037,
+        "new_rating": 1997,
+        "rating_change": -40
+    },
+    {
+        "handle": "mraron",
+        "rank": 285,
+        "old_rating": 2074,
+        "new_rating": 2025,
+        "rating_change": -49
+    },
+    {
+        "handle": "vhnvn",
+        "rank": 286,
+        "old_rating": 1913,
+        "new_rating": 1901,
+        "rating_change": -12
+    },
+    {
+        "handle": "TurboSergikk",
+        "rank": 287,
+        "old_rating": 1902,
+        "new_rating": 1893,
+        "rating_change": -9
+    },
+    {
+        "handle": "YerzhanU",
+        "rank": 288,
+        "old_rating": 2149,
+        "new_rating": 2083,
+        "rating_change": -66
+    },
+    {
+        "handle": "alexyz",
+        "rank": 290,
+        "old_rating": 2068,
+        "new_rating": 2018,
+        "rating_change": -50
+    },
+    {
+        "handle": "ConnorZhong",
+        "rank": 290,
+        "old_rating": 1991,
+        "new_rating": 1958,
+        "rating_change": -33
+    },
+    {
+        "handle": "NourElRashidy",
+        "rank": 291,
+        "old_rating": 2038,
+        "new_rating": 1994,
+        "rating_change": -44
+    },
+    {
+        "handle": "paulsohn",
+        "rank": 292,
+        "old_rating": 1974,
+        "new_rating": 1944,
+        "rating_change": -30
+    },
+    {
+        "handle": "JustInCase",
+        "rank": 293,
+        "old_rating": 1900,
+        "new_rating": 1888,
+        "rating_change": -12
+    },
+    {
+        "handle": "INVWVZ",
+        "rank": 294,
+        "old_rating": 2010,
+        "new_rating": 1971,
+        "rating_change": -39
+    },
+    {
+        "handle": "iaojnh",
+        "rank": 295,
+        "old_rating": 1970,
+        "new_rating": 1940,
+        "rating_change": -30
+    },
+    {
+        "handle": "SaveVMK",
+        "rank": 296,
+        "old_rating": 1923,
+        "new_rating": 1903,
+        "rating_change": -20
+    },
+    {
+        "handle": "MAMBA",
+        "rank": 297,
+        "old_rating": 2018,
+        "new_rating": 1976,
+        "rating_change": -42
+    },
+    {
+        "handle": "balakrishnan",
+        "rank": 298,
+        "old_rating": 1979,
+        "new_rating": 1945,
+        "rating_change": -34
+    },
+    {
+        "handle": "tmwilliamlin168",
+        "rank": 299,
+        "old_rating": 2032,
+        "new_rating": 1986,
+        "rating_change": -46
+    },
+    {
+        "handle": "heyshb",
+        "rank": 300,
+        "old_rating": 1953,
+        "new_rating": 1924,
+        "rating_change": -29
+    },
+    {
+        "handle": "MKibera",
+        "rank": 301,
+        "old_rating": 1948,
+        "new_rating": 1920,
+        "rating_change": -28
+    },
+    {
+        "handle": "FundamentalEq",
+        "rank": 302,
+        "old_rating": 1911,
+        "new_rating": 1891,
+        "rating_change": -20
+    },
+    {
+        "handle": "kut_kjb1994",
+        "rank": 303,
+        "old_rating": 2008,
+        "new_rating": 1965,
+        "rating_change": -43
+    },
+    {
+        "handle": "wika",
+        "rank": 304,
+        "old_rating": 1907,
+        "new_rating": 1887,
+        "rating_change": -20
+    },
+    {
+        "handle": "0xA28",
+        "rank": 305,
+        "old_rating": 1996,
+        "new_rating": 1955,
+        "rating_change": -41
+    },
+    {
+        "handle": "wjsoweak",
+        "rank": 306,
+        "old_rating": 1934,
+        "new_rating": 1906,
+        "rating_change": -28
+    },
+    {
+        "handle": "KhaleD_",
+        "rank": 307,
+        "old_rating": 1913,
+        "new_rating": 1890,
+        "rating_change": -23
+    },
+    {
+        "handle": "DmitryBelikov",
+        "rank": 308,
+        "old_rating": 2274,
+        "new_rating": 2176,
+        "rating_change": -98
+    },
+    {
+        "handle": "erfan._.m",
+        "rank": 309,
+        "old_rating": 2034,
+        "new_rating": 1983,
+        "rating_change": -51
+    },
+    {
+        "handle": "Numb",
+        "rank": 310,
+        "old_rating": 2009,
+        "new_rating": 1962,
+        "rating_change": -47
+    },
+    {
+        "handle": "cfk",
+        "rank": 311,
+        "old_rating": 2107,
+        "new_rating": 2040,
+        "rating_change": -67
+    },
+    {
+        "handle": "deva2802",
+        "rank": 312,
+        "old_rating": 2019,
+        "new_rating": 1969,
+        "rating_change": -50
+    },
+    {
+        "handle": "Z38",
+        "rank": 315,
+        "old_rating": 2072,
+        "new_rating": 2010,
+        "rating_change": -62
+    },
+    {
+        "handle": "codelegend",
+        "rank": 315,
+        "old_rating": 1949,
+        "new_rating": 1913,
+        "rating_change": -36
+    },
+    {
+        "handle": "MiteshAgrawal",
+        "rank": 315,
+        "old_rating": 1910,
+        "new_rating": 1883,
+        "rating_change": -27
+    },
+    {
+        "handle": "tlwpdus",
+        "rank": 316,
+        "old_rating": 2303,
+        "new_rating": 2196,
+        "rating_change": -107
+    },
+    {
+        "handle": "Arg_007",
+        "rank": 317,
+        "old_rating": 2066,
+        "new_rating": 2004,
+        "rating_change": -62
+    },
+    {
+        "handle": "akmintro",
+        "rank": 318,
+        "old_rating": 1975,
+        "new_rating": 1932,
+        "rating_change": -43
+    },
+    {
+        "handle": "I_love_Maria_Ivanova",
+        "rank": 319,
+        "old_rating": 2130,
+        "new_rating": 2055,
+        "rating_change": -75
+    },
+    {
+        "handle": "2014CAIS01",
+        "rank": 320,
+        "old_rating": 2011,
+        "new_rating": 1959,
+        "rating_change": -52
+    },
+    {
+        "handle": "Fireworks_Z",
+        "rank": 322,
+        "old_rating": 1996,
+        "new_rating": 1946,
+        "rating_change": -50
+    },
+    {
+        "handle": "Vladl1313",
+        "rank": 322,
+        "old_rating": 1946,
+        "new_rating": 1907,
+        "rating_change": -39
+    },
+    {
+        "handle": "adamant",
+        "rank": 325,
+        "old_rating": 2154,
+        "new_rating": 2072,
+        "rating_change": -82
+    },
+    {
+        "handle": "YaDon4ick",
+        "rank": 325,
+        "old_rating": 2080,
+        "new_rating": 2012,
+        "rating_change": -68
+    },
+    {
+        "handle": "Len",
+        "rank": 325,
+        "old_rating": 2026,
+        "new_rating": 1969,
+        "rating_change": -57
+    },
+    {
+        "handle": "Franklyn_W",
+        "rank": 327,
+        "old_rating": 2228,
+        "new_rating": 2132,
+        "rating_change": -96
+    },
+    {
+        "handle": "Florin29",
+        "rank": 327,
+        "old_rating": 1969,
+        "new_rating": 1922,
+        "rating_change": -47
+    },
+    {
+        "handle": "ZaakDov",
+        "rank": 328,
+        "old_rating": 1952,
+        "new_rating": 1908,
+        "rating_change": -44
+    },
+    {
+        "handle": "VietaFan",
+        "rank": 331,
+        "old_rating": 2085,
+        "new_rating": 2014,
+        "rating_change": -71
+    },
+    {
+        "handle": "P___",
+        "rank": 331,
+        "old_rating": 1962,
+        "new_rating": 1915,
+        "rating_change": -47
+    },
+    {
+        "handle": "smusmu",
+        "rank": 331,
+        "old_rating": 1902,
+        "new_rating": 1868,
+        "rating_change": -34
+    },
+    {
+        "handle": "Superty",
+        "rank": 332,
+        "old_rating": 2062,
+        "new_rating": 1995,
+        "rating_change": -67
+    },
+    {
+        "handle": "arthurCF",
+        "rank": 333,
+        "old_rating": 1968,
+        "new_rating": 1918,
+        "rating_change": -50
+    },
+    {
+        "handle": "AllCatsAreBeautiful",
+        "rank": 335,
+        "old_rating": 2314,
+        "new_rating": 2199,
+        "rating_change": -115
+    },
+    {
+        "handle": "mindol",
+        "rank": 335,
+        "old_rating": 2044,
+        "new_rating": 1979,
+        "rating_change": -65
+    },
+    {
+        "handle": "xolm",
+        "rank": 336,
+        "old_rating": 1958,
+        "new_rating": 1909,
+        "rating_change": -49
+    },
+    {
+        "handle": "jaguar1996",
+        "rank": 337,
+        "old_rating": 1967,
+        "new_rating": 1915,
+        "rating_change": -52
+    },
+    {
+        "handle": "WillyPillow",
+        "rank": 338,
+        "old_rating": 1912,
+        "new_rating": 1871,
+        "rating_change": -41
+    },
+    {
+        "handle": "bazsi700",
+        "rank": 340,
+        "old_rating": 2134,
+        "new_rating": 2050,
+        "rating_change": -84
+    },
+    {
+        "handle": "FallenTurret",
+        "rank": 340,
+        "old_rating": 2039,
+        "new_rating": 1972,
+        "rating_change": -67
+    },
+    {
+        "handle": "pranet",
+        "rank": 341,
+        "old_rating": 2085,
+        "new_rating": 2010,
+        "rating_change": -75
+    },
+    {
+        "handle": "triveni",
+        "rank": 344,
+        "old_rating": 2081,
+        "new_rating": 2005,
+        "rating_change": -76
+    },
+    {
+        "handle": "osamahatem",
+        "rank": 344,
+        "old_rating": 1974,
+        "new_rating": 1917,
+        "rating_change": -57
+    },
+    {
+        "handle": "reiracofage",
+        "rank": 344,
+        "old_rating": 1924,
+        "new_rating": 1877,
+        "rating_change": -47
+    },
+    {
+        "handle": "Dibagger",
+        "rank": 345,
+        "old_rating": 1963,
+        "new_rating": 1908,
+        "rating_change": -55
+    },
+    {
+        "handle": "HHzzkk",
+        "rank": 346,
+        "old_rating": 2215,
+        "new_rating": 2115,
+        "rating_change": -100
+    },
+    {
+        "handle": "teochaban",
+        "rank": 348,
+        "old_rating": 1922,
+        "new_rating": 1873,
+        "rating_change": -49
+    },
+    {
+        "handle": "solaimanope",
+        "rank": 348,
+        "old_rating": 1908,
+        "new_rating": 1862,
+        "rating_change": -46
+    },
+    {
+        "handle": "Temirulan",
+        "rank": 352,
+        "old_rating": 2206,
+        "new_rating": 2105,
+        "rating_change": -101
+    },
+    {
+        "handle": "FwP-IDN",
+        "rank": 352,
+        "old_rating": 2107,
+        "new_rating": 2023,
+        "rating_change": -84
+    },
+    {
+        "handle": "cgspyn_868",
+        "rank": 352,
+        "old_rating": 1944,
+        "new_rating": 1889,
+        "rating_change": -55
+    },
+    {
+        "handle": "vntshh",
+        "rank": 352,
+        "old_rating": 1941,
+        "new_rating": 1886,
+        "rating_change": -55
+    },
+    {
+        "handle": "frankbozar",
+        "rank": 353,
+        "old_rating": 1968,
+        "new_rating": 1908,
+        "rating_change": -60
+    },
+    {
+        "handle": "JeffreyHo",
+        "rank": 357,
+        "old_rating": 2169,
+        "new_rating": 2073,
+        "rating_change": -96
+    },
+    {
+        "handle": "vsp4",
+        "rank": 357,
+        "old_rating": 1998,
+        "new_rating": 1931,
+        "rating_change": -67
+    },
+    {
+        "handle": "mouse_wireless",
+        "rank": 357,
+        "old_rating": 1924,
+        "new_rating": 1870,
+        "rating_change": -54
+    },
+    {
+        "handle": "Woreviam",
+        "rank": 357,
+        "old_rating": 1900,
+        "new_rating": 1850,
+        "rating_change": -50
+    },
+    {
+        "handle": "guestcheap",
+        "rank": 358,
+        "old_rating": 2153,
+        "new_rating": 2059,
+        "rating_change": -94
+    },
+    {
+        "handle": "ioimooeee",
+        "rank": 359,
+        "old_rating": 1957,
+        "new_rating": 1896,
+        "rating_change": -61
+    },
+    {
+        "handle": "Batrr",
+        "rank": 360,
+        "old_rating": 1904,
+        "new_rating": 1852,
+        "rating_change": -52
+    },
+    {
+        "handle": "Hoi_koro",
+        "rank": 361,
+        "old_rating": 2064,
+        "new_rating": 1984,
+        "rating_change": -80
+    },
+    {
+        "handle": "Dopahkiin",
+        "rank": 363,
+        "old_rating": 2121,
+        "new_rating": 2031,
+        "rating_change": -90
+    },
+    {
+        "handle": "nike_007",
+        "rank": 363,
+        "old_rating": 1939,
+        "new_rating": 1879,
+        "rating_change": -60
+    },
+    {
+        "handle": "SheepRanger",
+        "rank": 364,
+        "old_rating": 1924,
+        "new_rating": 1866,
+        "rating_change": -58
+    },
+    {
+        "handle": "BohdanPastuschak",
+        "rank": 367,
+        "old_rating": 1998,
+        "new_rating": 1926,
+        "rating_change": -72
+    },
+    {
+        "handle": "Makcum888",
+        "rank": 367,
+        "old_rating": 1988,
+        "new_rating": 1917,
+        "rating_change": -71
+    },
+    {
+        "handle": "nevgen",
+        "rank": 367,
+        "old_rating": 1971,
+        "new_rating": 1903,
+        "rating_change": -68
+    },
+    {
+        "handle": "allllekssssa",
+        "rank": 368,
+        "old_rating": 2028,
+        "new_rating": 1950,
+        "rating_change": -78
+    },
+    {
+        "handle": "CMaster",
+        "rank": 369,
+        "old_rating": 1994,
+        "new_rating": 1921,
+        "rating_change": -73
+    },
+    {
+        "handle": "nigus",
+        "rank": 370,
+        "old_rating": 2111,
+        "new_rating": 2020,
+        "rating_change": -91
+    },
+    {
+        "handle": "cjoa",
+        "rank": 371,
+        "old_rating": 1930,
+        "new_rating": 1867,
+        "rating_change": -63
+    },
+    {
+        "handle": "mipt.vi002",
+        "rank": 372,
+        "old_rating": 1990,
+        "new_rating": 1916,
+        "rating_change": -74
+    },
+    {
+        "handle": "sggutier",
+        "rank": 373,
+        "old_rating": 1930,
+        "new_rating": 1865,
+        "rating_change": -65
+    },
+    {
+        "handle": "ATofighi",
+        "rank": 374,
+        "old_rating": 1942,
+        "new_rating": 1875,
+        "rating_change": -67
+    },
+    {
+        "handle": "leedsjays",
+        "rank": 375,
+        "old_rating": 1915,
+        "new_rating": 1852,
+        "rating_change": -63
+    },
+    {
+        "handle": "Pavs",
+        "rank": 376,
+        "old_rating": 1990,
+        "new_rating": 1914,
+        "rating_change": -76
+    },
+    {
+        "handle": "kr_abhinav",
+        "rank": 377,
+        "old_rating": 2067,
+        "new_rating": 1979,
+        "rating_change": -88
+    },
+    {
+        "handle": "TaTaPiH",
+        "rank": 378,
+        "old_rating": 1933,
+        "new_rating": 1865,
+        "rating_change": -68
+    },
+    {
+        "handle": "ajinkya1p3",
+        "rank": 379,
+        "old_rating": 2032,
+        "new_rating": 1949,
+        "rating_change": -83
+    },
+    {
+        "handle": "kzyKT",
+        "rank": 380,
+        "old_rating": 1934,
+        "new_rating": 1865,
+        "rating_change": -69
+    },
+    {
+        "handle": "RUSH_D_CAT",
+        "rank": 381,
+        "old_rating": 1924,
+        "new_rating": 1856,
+        "rating_change": -68
+    },
+    {
+        "handle": "Hammaspeikko",
+        "rank": 382,
+        "old_rating": 1909,
+        "new_rating": 1842,
+        "rating_change": -67
+    },
+    {
+        "handle": "J.Lili",
+        "rank": 383,
+        "old_rating": 1982,
+        "new_rating": 1904,
+        "rating_change": -78
+    },
+    {
+        "handle": "MegaBidoof",
+        "rank": 384,
+        "old_rating": 1979,
+        "new_rating": 1901,
+        "rating_change": -78
+    },
+    {
+        "handle": "Gold_Three_Fat",
+        "rank": 385,
+        "old_rating": 1974,
+        "new_rating": 1896,
+        "rating_change": -78
+    },
+    {
+        "handle": "MysteryGuy",
+        "rank": 386,
+        "old_rating": 1924,
+        "new_rating": 1852,
+        "rating_change": -72
+    },
+    {
+        "handle": "denis2111",
+        "rank": 387,
+        "old_rating": 1984,
+        "new_rating": 1904,
+        "rating_change": -80
+    },
+    {
+        "handle": "_Dragon_",
+        "rank": 388,
+        "old_rating": 1986,
+        "new_rating": 1905,
+        "rating_change": -81
+    },
+    {
+        "handle": "tinca_matei",
+        "rank": 389,
+        "old_rating": 1965,
+        "new_rating": 1886,
+        "rating_change": -79
+    },
+    {
+        "handle": "BrainDead",
+        "rank": 390,
+        "old_rating": 1951,
+        "new_rating": 1873,
+        "rating_change": -78
+    },
+    {
+        "handle": "caa_tomsk",
+        "rank": 391,
+        "old_rating": 2008,
+        "new_rating": 1922,
+        "rating_change": -86
+    },
+    {
+        "handle": "DNA",
+        "rank": 392,
+        "old_rating": 1947,
+        "new_rating": 1869,
+        "rating_change": -78
+    },
+    {
+        "handle": "meooow",
+        "rank": 393,
+        "old_rating": 2079,
+        "new_rating": 1983,
+        "rating_change": -96
+    },
+    {
+        "handle": "WA_TLE",
+        "rank": 394,
+        "old_rating": 2176,
+        "new_rating": 2066,
+        "rating_change": -110
+    },
+    {
+        "handle": "Safayat",
+        "rank": 395,
+        "old_rating": 1923,
+        "new_rating": 1846,
+        "rating_change": -77
+    },
+    {
+        "handle": "nnandi",
+        "rank": 396,
+        "old_rating": 1962,
+        "new_rating": 1880,
+        "rating_change": -82
+    },
+    {
+        "handle": "dreamplay",
+        "rank": 397,
+        "old_rating": 1969,
+        "new_rating": 1885,
+        "rating_change": -84
+    },
+    {
+        "handle": "Akinorew",
+        "rank": 398,
+        "old_rating": 1969,
+        "new_rating": 1885,
+        "rating_change": -84
+    },
+    {
+        "handle": "iwashi31",
+        "rank": 399,
+        "old_rating": 1934,
+        "new_rating": 1853,
+        "rating_change": -81
+    },
+    {
+        "handle": "noelnadal",
+        "rank": 401,
+        "old_rating": 2023,
+        "new_rating": 1931,
+        "rating_change": -92
+    },
+    {
+        "handle": "JasonBaby",
+        "rank": 401,
+        "old_rating": 1923,
+        "new_rating": 1842,
+        "rating_change": -81
+    },
+    {
+        "handle": "grumpy_gordon",
+        "rank": 423,
+        "old_rating": 2357,
+        "new_rating": 2210,
+        "rating_change": -147
+    },
+    {
+        "handle": "kzoacn",
+        "rank": 423,
+        "old_rating": 2170,
+        "new_rating": 2051,
+        "rating_change": -119
+    },
+    {
+        "handle": "super_azbuka",
+        "rank": 423,
+        "old_rating": 2092,
+        "new_rating": 1982,
+        "rating_change": -110
+    },
+    {
+        "handle": "fudail225",
+        "rank": 423,
+        "old_rating": 2077,
+        "new_rating": 1969,
+        "rating_change": -108
+    },
+    {
+        "handle": "NEU20133823",
+        "rank": 423,
+        "old_rating": 2052,
+        "new_rating": 1946,
+        "rating_change": -106
+    },
+    {
+        "handle": "mathmaniac",
+        "rank": 423,
+        "old_rating": 2039,
+        "new_rating": 1934,
+        "rating_change": -105
+    },
+    {
+        "handle": "mahbubcseju",
+        "rank": 423,
+        "old_rating": 2021,
+        "new_rating": 1918,
+        "rating_change": -103
+    },
+    {
+        "handle": "King_George",
+        "rank": 423,
+        "old_rating": 2008,
+        "new_rating": 1906,
+        "rating_change": -102
+    },
+    {
+        "handle": "RockyB",
+        "rank": 423,
+        "old_rating": 1987,
+        "new_rating": 1887,
+        "rating_change": -100
+    },
+    {
+        "handle": "sluki",
+        "rank": 423,
+        "old_rating": 1981,
+        "new_rating": 1881,
+        "rating_change": -100
+    },
+    {
+        "handle": "andrew",
+        "rank": 423,
+        "old_rating": 1977,
+        "new_rating": 1878,
+        "rating_change": -99
+    },
+    {
+        "handle": "HDevillez",
+        "rank": 423,
+        "old_rating": 1968,
+        "new_rating": 1870,
+        "rating_change": -98
+    },
+    {
+        "handle": "Zymphony77",
+        "rank": 423,
+        "old_rating": 1957,
+        "new_rating": 1859,
+        "rating_change": -98
+    },
+    {
+        "handle": "wcy1122",
+        "rank": 423,
+        "old_rating": 1952,
+        "new_rating": 1855,
+        "rating_change": -97
+    },
+    {
+        "handle": "LazyCharlie",
+        "rank": 423,
+        "old_rating": 1942,
+        "new_rating": 1845,
+        "rating_change": -97
+    },
+    {
+        "handle": "Dashk0",
+        "rank": 423,
+        "old_rating": 1937,
+        "new_rating": 1841,
+        "rating_change": -96
+    },
+    {
+        "handle": "lx_ambulance",
+        "rank": 423,
+        "old_rating": 1934,
+        "new_rating": 1838,
+        "rating_change": -96
+    },
+    {
+        "handle": "raja1999",
+        "rank": 423,
+        "old_rating": 1925,
+        "new_rating": 1830,
+        "rating_change": -95
+    },
+    {
+        "handle": "Mahan_sh",
+        "rank": 423,
+        "old_rating": 1916,
+        "new_rating": 1821,
+        "rating_change": -95
+    },
+    {
+        "handle": "sydlcs",
+        "rank": 423,
+        "old_rating": 1915,
+        "new_rating": 1820,
+        "rating_change": -95
+    },
+    {
+        "handle": "Elibay",
+        "rank": 423,
+        "old_rating": 1908,
+        "new_rating": 1814,
+        "rating_change": -94
+    },
+    {
+        "handle": "dastan",
+        "rank": 423,
+        "old_rating": 1903,
+        "new_rating": 1809,
+        "rating_change": -94
+    }
+]
